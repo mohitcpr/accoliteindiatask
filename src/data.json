@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "Vicks",
+      "available": 5,
+      "mrp": 15000,
+      "sellingPrice": 15000,
+      "type": "Bottle",
+      "image": "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {
+      "name": "Vicks",
+      "available": 0,
+      "mrp": 15000,
+      "sellingPrice": 15000,
+      "type": "Bottle",
+      "image": "https://reactnative.dev/img/tiny_logo.png"
+    },
+    {
+      "name": "Vicks",
+      "available": 50,
+      "mrp": 15000,
+      "sellingPrice": 15000,
+      "type": "Bottle",
+      "image": "https://reactnative.dev/img/tiny_logo.png"
+    }
+  ]
+}
